@@ -57,6 +57,3 @@ Es importante copiar los archivos de configuración de ESLint (`eslint.config.js
 
 - **Prettier**: Configurado para formatear automáticamente el código según las mejores prácticas y estándares establecidos.
 
----
-
-Este archivo `README.md` proporciona una visión general de las dependencias de desarrollo utilizadas en el proyecto, junto con instrucciones detalladas para su instalación y configuración. Utilízalo como referencia durante el desarrollo y mantenimiento del proyecto para garantizar un código limpio y bien estructurado.
